@@ -1,19 +1,14 @@
 ---
 layout: narrative
-title: "Excerpts of Moby-Dick"
+title: "Moby Dick"
 author: Herman Melville
-editor: You!
 rights: Public Domain
 source: Project Guttenberg
-publication-date: 2016
-toc:
-- Sample Text
-body-class: post-Read
 ---
 
 <a id="title-page" />
 
-<p class="centered large">Readings of Moby Dick</p>
+<p class="centered large">Moby Dick</p>
 
 ---
 
