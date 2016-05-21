@@ -2,8 +2,6 @@
 layout: narrative
 title: "Moby Dick"
 author: Herman Melville
-rights: Public Domain
-source: Project Guttenberg
 ---
 
 <a id="title-page" />
