@@ -23,7 +23,7 @@ current_date.to_s
 
 source = "#{current_date}" + "-" + title2
 
-f  = File.new("./" + source + ".md", "w")
+f  = File.new("/_posts/" + source + ".md", "w")
 f.puts("---")
 f.puts("layout: " + type)
 f.puts("title: "  + %Q{"#{title}"})
