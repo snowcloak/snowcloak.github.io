@@ -8,8 +8,6 @@ source: Project Guttenberg
 
 <a id="title-page" />
 
-<p class="centered large">Moby Dick</p>
-
 ---
 
 The beginning of Moby Dick by Herman Melville:
