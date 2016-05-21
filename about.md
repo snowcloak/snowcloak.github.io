@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Miguel and I like dog, puppies.
+I am Miguel and I like puppies.
 
 ### More Information
 
